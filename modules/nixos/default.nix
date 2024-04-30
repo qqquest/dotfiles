@@ -4,5 +4,6 @@
     ./system
     ./tools
     ./desktop
+    ./
   ];
 }
