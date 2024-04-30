@@ -8,7 +8,7 @@
   system.boot.enable = true;
   tools.git.enable = true;
   cli-apps.neovim.enable = true;
-  desktop.sway.enable = true;
+  desktop.hyprland.enable = true;
 
   virtualisation.virtualbox.guest.enable = true;
 
