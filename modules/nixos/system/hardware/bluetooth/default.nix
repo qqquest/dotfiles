@@ -1,5 +1,5 @@
 { config, pkgs, lib, ... }: let
-  cfg = config.desktop.bluetooth;
+  cfg = config.hardware.bluetooth;
 in {
   options.system.hardware.bluetooth.enable = lib.mkEnableOption "Whether or not to enable bluetooth.";
 
