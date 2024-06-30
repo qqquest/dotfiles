@@ -1,7 +1,0 @@
-{
-  imports = [
-    ./wallpaper
-    ./sway
-    ./hyprland
-  ];
-}
